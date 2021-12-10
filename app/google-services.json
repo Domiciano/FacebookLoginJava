@@ -1,0 +1,556 @@
+{
+  "project_info": {
+    "project_number": "985925449408",
+    "firebase_url": "https://fir-androidicesi.firebaseio.com",
+    "project_id": "fir-androidicesi",
+    "storage_bucket": "fir-androidicesi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985925449408:android:eea08145c38f2212",
+        "android_client_info": {
+          "package_name": "appmoviles.com.appsmoviles20191"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDauoO8BNCf3H5cpMxyyDTj4tXyywj7gYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985925449408-oaoihl4soc24g0dbbpbsqsmes3gqq0fg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "985925449408-f7s1u3ie6iem3qnqk87mpnv9rn6h7lad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "edu.co.icesi.reto2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985925449408:android:5a4cd527279fe993",
+        "android_client_info": {
+          "package_name": "appmoviles.com.prepclase8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDauoO8BNCf3H5cpMxyyDTj4tXyywj7gYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985925449408-oaoihl4soc24g0dbbpbsqsmes3gqq0fg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "985925449408-f7s1u3ie6iem3qnqk87mpnv9rn6h7lad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "edu.co.icesi.reto2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985925449408:android:c550c326236b6a4e7b1f25",
+        "android_client_info": {
+          "package_name": "edu.co.icesi.authtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985925449408-6uqqmi9173knhgemtksgvoknbu7ldisp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.co.icesi.authtest",
+            "certificate_hash": "dbcb83a278fb402c2d1bda05e796351468d48c5c"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDauoO8BNCf3H5cpMxyyDTj4tXyywj7gYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985925449408-oaoihl4soc24g0dbbpbsqsmes3gqq0fg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "985925449408-f7s1u3ie6iem3qnqk87mpnv9rn6h7lad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "edu.co.icesi.reto2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985925449408:android:04e24651960aac137b1f25",
+        "android_client_info": {
+          "package_name": "edu.co.icesi.consultasfirestores"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDauoO8BNCf3H5cpMxyyDTj4tXyywj7gYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985925449408-oaoihl4soc24g0dbbpbsqsmes3gqq0fg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "985925449408-f7s1u3ie6iem3qnqk87mpnv9rn6h7lad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "edu.co.icesi.reto2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985925449408:android:dad1a48621265b227b1f25",
+        "android_client_info": {
+          "package_name": "edu.co.icesi.consultastest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDauoO8BNCf3H5cpMxyyDTj4tXyywj7gYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985925449408-oaoihl4soc24g0dbbpbsqsmes3gqq0fg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "985925449408-f7s1u3ie6iem3qnqk87mpnv9rn6h7lad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "edu.co.icesi.reto2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985925449408:android:977d0c76f0b930357b1f25",
+        "android_client_info": {
+          "package_name": "edu.co.icesi.firebaseauthclase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985925449408-hp3qg972benv0e1ddodsea2qea1lch91.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.co.icesi.firebaseauthclase",
+            "certificate_hash": "dbcb83a278fb402c2d1bda05e796351468d48c5c"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDauoO8BNCf3H5cpMxyyDTj4tXyywj7gYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985925449408-oaoihl4soc24g0dbbpbsqsmes3gqq0fg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "985925449408-f7s1u3ie6iem3qnqk87mpnv9rn6h7lad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "edu.co.icesi.reto2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985925449408:android:5407540c540590f17b1f25",
+        "android_client_info": {
+          "package_name": "edu.co.icesi.firebasefacebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDauoO8BNCf3H5cpMxyyDTj4tXyywj7gYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985925449408-oaoihl4soc24g0dbbpbsqsmes3gqq0fg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "985925449408-f7s1u3ie6iem3qnqk87mpnv9rn6h7lad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "edu.co.icesi.reto2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985925449408:android:5a1f4aa18d3c10d37b1f25",
+        "android_client_info": {
+          "package_name": "edu.co.icesi.firestoreejemplo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDauoO8BNCf3H5cpMxyyDTj4tXyywj7gYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985925449408-oaoihl4soc24g0dbbpbsqsmes3gqq0fg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "985925449408-f7s1u3ie6iem3qnqk87mpnv9rn6h7lad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "edu.co.icesi.reto2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985925449408:android:65e11bbcf1ccb8997b1f25",
+        "android_client_info": {
+          "package_name": "edu.co.icesi.firestoreejemplo2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDauoO8BNCf3H5cpMxyyDTj4tXyywj7gYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985925449408-oaoihl4soc24g0dbbpbsqsmes3gqq0fg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "985925449408-f7s1u3ie6iem3qnqk87mpnv9rn6h7lad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "edu.co.icesi.reto2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985925449408:android:c23688eb07eb48a67b1f25",
+        "android_client_info": {
+          "package_name": "edu.co.icesi.firestoreejemplokotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDauoO8BNCf3H5cpMxyyDTj4tXyywj7gYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985925449408-oaoihl4soc24g0dbbpbsqsmes3gqq0fg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "985925449408-f7s1u3ie6iem3qnqk87mpnv9rn6h7lad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "edu.co.icesi.reto2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985925449408:android:ef2ebd03c45b33b47b1f25",
+        "android_client_info": {
+          "package_name": "edu.co.icesi.reto2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDauoO8BNCf3H5cpMxyyDTj4tXyywj7gYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985925449408-oaoihl4soc24g0dbbpbsqsmes3gqq0fg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "985925449408-f7s1u3ie6iem3qnqk87mpnv9rn6h7lad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "edu.co.icesi.reto2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985925449408:android:bfda0d7a077e313b7b1f25",
+        "android_client_info": {
+          "package_name": "edu.co.icesi.sqliteejemplo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDauoO8BNCf3H5cpMxyyDTj4tXyywj7gYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985925449408-oaoihl4soc24g0dbbpbsqsmes3gqq0fg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "985925449408-f7s1u3ie6iem3qnqk87mpnv9rn6h7lad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "edu.co.icesi.reto2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985925449408:android:77b61ed04f7f49117b1f25",
+        "android_client_info": {
+          "package_name": "edu.co.icesi.sqliteejemplojava"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDauoO8BNCf3H5cpMxyyDTj4tXyywj7gYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985925449408-oaoihl4soc24g0dbbpbsqsmes3gqq0fg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "985925449408-f7s1u3ie6iem3qnqk87mpnv9rn6h7lad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "edu.co.icesi.reto2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985925449408:android:310b77df87fc20407b1f25",
+        "android_client_info": {
+          "package_name": "edu.co.icesi.sqliteejemplokotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDauoO8BNCf3H5cpMxyyDTj4tXyywj7gYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985925449408-oaoihl4soc24g0dbbpbsqsmes3gqq0fg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "985925449408-f7s1u3ie6iem3qnqk87mpnv9rn6h7lad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "edu.co.icesi.reto2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985925449408:android:a193f9171b8c64de7b1f25",
+        "android_client_info": {
+          "package_name": "edu.co.icesi.sqliteejemplokt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDauoO8BNCf3H5cpMxyyDTj4tXyywj7gYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985925449408-oaoihl4soc24g0dbbpbsqsmes3gqq0fg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "985925449408-f7s1u3ie6iem3qnqk87mpnv9rn6h7lad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "edu.co.icesi.reto2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985925449408:android:676f53bc0697de127b1f25",
+        "android_client_info": {
+          "package_name": "edu.co.icesi.storageclase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDauoO8BNCf3H5cpMxyyDTj4tXyywj7gYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985925449408-oaoihl4soc24g0dbbpbsqsmes3gqq0fg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "985925449408-f7s1u3ie6iem3qnqk87mpnv9rn6h7lad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "edu.co.icesi.reto2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985925449408:android:0323b59ce42064a9",
+        "android_client_info": {
+          "package_name": "i2t.icesi.pruebafire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDauoO8BNCf3H5cpMxyyDTj4tXyywj7gYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985925449408-oaoihl4soc24g0dbbpbsqsmes3gqq0fg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "985925449408-f7s1u3ie6iem3qnqk87mpnv9rn6h7lad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "edu.co.icesi.reto2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
